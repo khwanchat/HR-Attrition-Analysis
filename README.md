@@ -38,7 +38,7 @@ To identify the most influential factors contributing to employee attrition and 
 ## 🛠️ Tools Used
 
 - Python (pandas, seaborn, matplotlib)
-- Data visualization and descriptive statistics
+- Data visualization and descriptive statistics (Tableau)
 - Built and presented with PowerPoint
 
 ---
